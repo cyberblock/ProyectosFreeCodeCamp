@@ -16,11 +16,11 @@ function App() {
    setNumClics(numClics + 1);
 
 
-  }
+  };
 
   const reiniciarContador = () =>{
     setNumClics(0)
-  }
+  };
 
   return (
     <div className="App">
